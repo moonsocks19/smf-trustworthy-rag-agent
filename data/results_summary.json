@@ -1,0 +1,23 @@
+{
+  "generated": "2026-07-23T06:20:48",
+  "model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "embedder": "sentence-transformers/all-MiniLM-L6-v2",
+  "benign_accuracy": {
+    "baseline": 0.8,
+    "defended": 0.9
+  },
+  "attack_success_rate": {
+    "prompt_injection": {
+      "before": 0.8333333333333334,
+      "after": 0.0
+    },
+    "extraction": {
+      "before": 0.6666666666666666,
+      "after": 0.0
+    },
+    "poisoning": {
+      "before": 0.6,
+      "after": 0.0
+    }
+  }
+}

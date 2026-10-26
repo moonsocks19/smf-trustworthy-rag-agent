@@ -1,0 +1,11 @@
+# Trustworthy AI RAG Security & Evaluation
+# Python 3.10 - 3.12 recommended
+
+torch>=2.0.0
+transformers>=4.40.0
+sentence-transformers>=3.0.0
+faiss-cpu>=1.7.4
+gradio>=4.0.0
+accelerate>=0.26.0
+numpy>=1.24.0
+pandas>=1.5.0

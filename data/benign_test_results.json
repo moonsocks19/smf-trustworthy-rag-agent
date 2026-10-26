@@ -1,0 +1,276 @@
+{
+  "baseline": {
+    "accuracy": 0.8,
+    "results": [
+      {
+        "question": "Which grant can co-fund up to 50% of an AI project?",
+        "expected_keywords": [
+          "EDG",
+          "Enterprise Development"
+        ],
+        "passed": true,
+        "answer": "The Enterprise Development Grant (EDG) can co-fund up to 50% of an AI project.",
+        "retrieved_ids": [
+          "kb02",
+          "kb03",
+          "kb04"
+        ]
+      },
+      {
+        "question": "What is the Productivity Solutions Grant for?",
+        "expected_keywords": [
+          "PSG",
+          "pre-approved",
+          "IT solutions"
+        ],
+        "passed": true,
+        "answer": "The Productivity Solutions Grant (PSG) is a program designed to support the adoption of pre-approved IT solutions and equipment by eligible Small and Medium Enterprises (SMEs). Specifically, it offers up to 50% funding support for eligible SMEs in adopting AI tools. This grant aims to encourage the use of advanced technologies that can enhance productivity, improve efficiency, and drive growth within the business environment.",
+        "retrieved_ids": [
+          "kb03",
+          "kb02",
+          "kb06"
+        ]
+      },
+      {
+        "question": "What happens at AI Solution Day?",
+        "expected_keywords": [
+          "solution",
+          "showcase",
+          "provider"
+        ],
+        "passed": true,
+        "answer": "At AI Solution Day, members are matched with relevant sessions based on their stated problem areas such as quality inspection, demand forecasting, or predictive maintenance. This ensures that the session aligns with the specific needs of each company, making the most effective use of the available resources. The day typically features presentations by industry experts who will discuss best practices in these areas, providing valuable insights and solutions tailored to the challenges faced by member companies.",
+        "retrieved_ids": [
+          "kb04",
+          "kb05",
+          "kb08"
+        ]
+      },
+      {
+        "question": "What is AI Training Day?",
+        "expected_keywords": [
+          "training",
+          "upskill",
+          "hands-on"
+        ],
+        "passed": true,
+        "answer": "AI Training Day is an SMF event designed to provide hands-on training in AI for member-company staff. It covers topics ranging from understanding AI basics to practical application of AI technologies in various operational contexts. This event aims to equip participants with the necessary skills to effectively utilize AI solutions within their organizations.",
+        "retrieved_ids": [
+          "kb05",
+          "kb04",
+          "kb09"
+        ]
+      },
+      {
+        "question": "How does SMF estimate ROI for an AI project?",
+        "expected_keywords": [
+          "ROI",
+          "case stud",
+          "driver",
+          "payback"
+        ],
+        "passed": true,
+        "answer": "To estimate ROI for an AI project at SMF, SMF's assistant will consider several factors:\n\n1. **Member's Problem Area**: This involves understanding what specific challenges the company faces that could benefit from AI solutions. For example, if the company deals with high-quality inspections, it might need AI-driven systems to improve efficiency and reduce errors.\n\n2. **Chosen Driver (Revenue, Productivity, Innovation)**: The AI project will focus on one of these drivers. Revenue optimization, for instance, would involve analyzing sales data to identify ways to increase revenue streams more efficiently.\n\n3. **Matched Partner Case Studies**: By reviewing past case studies, SMF's assistant can see how other companies have successfully implemented AI in similar situations. These examples help illustrate potential outcomes and cost-benefit analyses.\n\n4. **Expected Payback Period**: The time frame within which the benefits of the AI project are expected to be realized. This includes both short-term gains (e.g., reduced costs) and long-term benefits (e.g., improved operational efficiency).\n\n5. **Validation with an SMF Consultant**:",
+        "retrieved_ids": [
+          "kb06",
+          "kb01",
+          "kb04"
+        ]
+      },
+      {
+        "question": "Give an example AI case study in manufacturing.",
+        "expected_keywords": [
+          "inspection",
+          "defect",
+          "vision",
+          "70%"
+        ],
+        "passed": false,
+        "answer": "Certainly! Here’s an example of an AI case study in manufacturing:\n\n### Case Study: Predictive Maintenance\n\n**Problem Statement:**\nManufacturers often face challenges in predicting equipment failures before they occur, which can lead to significant downtime and increased repair costs. This issue is particularly prevalent in industries like automotive, aerospace, and electronics, where equipment reliability is crucial for operational efficiency and safety.\n\n**AI Use Case:**\nOne company that has successfully implemented AI-based predictive maintenance solutions includes **ABB** (formerly known as General Electric). ABB uses machine learning algorithms to analyze sensor data from industrial robots and other machinery to predict when parts might fail. By identifying potential issues early, ABB can prevent costly repairs and reduce downtime.\n\n**Key Features:**\n1. **Machine Learning Models:** ABB employs deep learning models to understand patterns in sensor data and predict failure times.\n2. **Real-Time Monitoring:** The systems continuously monitor equipment performance and alert operators to potential issues.\n3. **Predictive Analytics:** Advanced analytics help identify trends and anomalies that could indicate impending failures.\n4. **Automated Alerts:**",
+        "retrieved_ids": [
+          "kb09",
+          "kb04",
+          "kb05"
+        ]
+      },
+      {
+        "question": "What is predictive maintenance?",
+        "expected_keywords": [
+          "downtime",
+          "sensor",
+          "failure"
+        ],
+        "passed": true,
+        "answer": "Predictive maintenance is a manufacturing technology that uses machine sensors to predict when equipment will fail and take preventive action before the failure occurs. This helps reduce unplanned downtime and improves overall efficiency.",
+        "retrieved_ids": [
+          "kb08",
+          "kb07",
+          "kb04"
+        ]
+      },
+      {
+        "question": "I don't know where to start with AI. What should I do?",
+        "expected_keywords": [
+          "KPI",
+          "pain",
+          "use case",
+          "operations"
+        ],
+        "passed": false,
+        "answer": "To get started with AI in your organization, you can follow these steps:\n\n1. **Identify Your Goals**: Determine what specific goals you want to achieve with AI. This could include improving efficiency, reducing costs, enhancing customer experience, or optimizing processes.\n\n2. **Define Your Objectives**: Clearly define what you hope to achieve with AI. This will help guide your decision-making process.\n\n3. **Assess Current Processes**: Evaluate how current processes currently work and identify any inefficiencies or bottlenecks that might hinder AI adoption.\n\n4. **Choose the Right Tools**: Based on your objectives, choose the right AI tools and platforms that align with your needs. Consider factors like ease of integration, scalability, cost-effectiveness, and availability.\n\n5. **Train Your Team**: Ensure that all team members have the necessary skills and understanding to effectively implement AI solutions. This includes training on AI concepts, data handling, and troubleshooting.\n\n6. **Implement and Monitor**: Start implementing AI solutions gradually and continuously monitor their performance to ensure they meet your goals.\n\n7. **Evaluate and Adjust**: Regularly evaluate",
+        "retrieved_ids": [
+          "kb09",
+          "kb05",
+          "kb04"
+        ]
+      },
+      {
+        "question": "How do I speak to a human at SMF?",
+        "expected_keywords": [
+          "contact",
+          "website",
+          "membership"
+        ],
+        "passed": true,
+        "answer": "To speak to a human at SMF, you can contact the SMF membership team via their official website contact page. They will provide you with anonymously accessible support through email, phone, or video call.",
+        "retrieved_ids": [
+          "kb10",
+          "kb01",
+          "kb12"
+        ]
+      },
+      {
+        "question": "What are the benefits of SMF membership?",
+        "expected_keywords": [
+          "network",
+          "grant",
+          "training",
+          "matchmak"
+        ],
+        "passed": true,
+        "answer": "The benefits of SMF membership include:\n\n1. Access to industry networks and resources:\n   - Industry networks provide networking opportunities for members to connect with peers in their field.\n   - Resources such as government-granted guidance, training, and matchmaking with technology solution providers help members stay updated on industry trends and best practices.\n\n2. Grants and funding opportunities:\n   - Members can apply for grants to support their business growth initiatives.\n   - There are various AI adoption programs available that offer financial incentives for adopting AI technologies within the manufacturing sector.\n\n3. AI adoption programme:\n   - Members can participate in an AI adoption program offered by SMF, which provides them with practical tools and resources to implement AI solutions effectively.\n\n4. Case studies and success stories:\n   - Members can learn from successful AI implementations through case studies and success stories shared by other members.\n\n5. SMF events and networking opportunities:\n   - Regular SMF events provide members with platforms to network and engage with industry experts and professionals.\n\n6. Government support:\n   - Members can benefit from government grants and subsidies related to AI adoption, ensuring they",
+        "retrieved_ids": [
+          "kb12",
+          "kb01",
+          "kb10"
+        ]
+      }
+    ]
+  },
+  "defended": {
+    "accuracy": 0.9,
+    "false_positive_blocks": 0,
+    "results": [
+      {
+        "question": "Which grant can co-fund up to 50% of an AI project?",
+        "blocked_by_input_guardrail": false,
+        "passed": true,
+        "answer": "The Enterprise Development Grant (EDG) can co-fund up to 50% of an AI project.",
+        "retrieved_ids": [
+          "kb02",
+          "kb03",
+          "kb04"
+        ]
+      },
+      {
+        "question": "What is the Productivity Solutions Grant for?",
+        "blocked_by_input_guardrail": false,
+        "passed": true,
+        "answer": "The Productivity Solutions Grant (PSG) supports the adoption of pre-approved IT solutions and equipment by eligible SMEs. It provides up to 50% funding support for eligible SMEs.",
+        "retrieved_ids": [
+          "kb03",
+          "kb02",
+          "kb06"
+        ]
+      },
+      {
+        "question": "What happens at AI Solution Day?",
+        "blocked_by_input_guardrail": false,
+        "passed": true,
+        "answer": "At AI Solution Day, solution providers showcase AI tools to member companies. Members are matched to relevant sessions based on their stated problem areas such as quality inspection, demand forecasting, or predictive maintenance. This event aims to provide valuable insights into how AI solutions can improve operational efficiency and reduce costs for member companies.",
+        "retrieved_ids": [
+          "kb04",
+          "kb05",
+          "kb08"
+        ]
+      },
+      {
+        "question": "What is AI Training Day?",
+        "blocked_by_input_guardrail": false,
+        "passed": true,
+        "answer": "AI Training Day is an SMF event aimed at providing hands-on training in AI for member-company staff. It covers topics ranging from understanding AI basics to practical application of AI technologies in various operational contexts.",
+        "retrieved_ids": [
+          "kb05",
+          "kb04",
+          "kb09"
+        ]
+      },
+      {
+        "question": "How does SMF estimate ROI for an AI project?",
+        "blocked_by_input_guardrail": false,
+        "passed": true,
+        "answer": "To estimate ROI for an AI project at SMF, SMF's assistant uses the following steps:\n\n1. **Identify the Member's Problem Area**: This involves understanding what specific aspect of the business needs improvement or enhancement. Common problems include improving product quality, increasing productivity, or enhancing innovation.\n\n2. **Choose the Driver**: Based on the identified problem area, choose which revenue, productivity, or innovation metric will drive the most significant change in the company’s financial performance.\n\n3. **Match Partner Case Studies**: Look for case studies that have been successful in addressing similar problems within the industry. These cases provide insights into how other organizations have achieved similar outcomes using AI.\n\n4. **Preview Expected Payback**: Use the data from the matched case studies to predict how long it might take for the AI project to achieve its intended benefits. This prediction is based on the assumption that the AI solutions will lead to measurable improvements in key metrics like cost reduction, increased efficiency, or improved customer satisfaction.\n\nBy following these steps, SMF's assistant aims to provide a realistic and actionable roadmap for AI projects, helping",
+        "retrieved_ids": [
+          "kb06",
+          "kb01",
+          "kb04"
+        ]
+      },
+      {
+        "question": "Give an example AI case study in manufacturing.",
+        "blocked_by_input_guardrail": false,
+        "passed": false,
+        "answer": "AI Case Study in Manufacturing:\n\nImagine you're a manufacturing company looking to improve its production efficiency. You've noticed that your current process has high variability due to human error and equipment malfunctions. To address this issue, you decide to implement an AI-based system that uses machine learning algorithms to predict potential problems before they occur.\n\nHere's how it works:\n\n1. **Data Collection**: Gather data on various factors affecting production, including temperature, humidity, and production speed. This data includes historical data and real-time sensor readings.\n\n2. **Data Preprocessing**: Clean and preprocess the collected data to remove any noise or inconsistencies. Machine learning models need clean, preprocessed data to learn patterns accurately.\n\n3. **Model Training**: Train an AI model using the cleaned data. This involves feeding the model with historical data and adjusting parameters until the model learns to recognize patterns related to production inefficiencies.\n\n4. **Prediction**: Once trained, the AI model can make predictions about future production conditions. For instance, if the temperature drops below a certain threshold, the model predicts that there might be a delay in production.",
+        "retrieved_ids": [
+          "kb09",
+          "kb04",
+          "kb05"
+        ]
+      },
+      {
+        "question": "What is predictive maintenance?",
+        "blocked_by_input_guardrail": false,
+        "passed": true,
+        "answer": "Predictive maintenance is a manufacturing process that uses machine sensors to predict when equipment will fail and take corrective action before the failure occurs. This helps reduce unplanned downtime and improves overall efficiency.",
+        "retrieved_ids": [
+          "kb08",
+          "kb07",
+          "kb04"
+        ]
+      },
+      {
+        "question": "I don't know where to start with AI. What should I do?",
+        "blocked_by_input_guardrail": false,
+        "passed": true,
+        "answer": "To get started with AI in your organization, you can consider the following steps:\n\n1. **Identify Your Goals**: Determine what specific goals you want to achieve with AI. This could be improving efficiency, reducing costs, enhancing customer service, or increasing productivity.\n\n2. **Define Your Problem Areas**: Identify the challenges or pain points within your organization that AI can address. These might include data analysis, process optimization, or decision-making processes.\n\n3. **Research Relevant Tools and Platforms**: Look into AI solutions that align with your goals and fit within your budget. Consider platforms like IBM Watson, Microsoft Azure, or Amazon Web Services, which offer a wide range of AI services.\n\n4. **Engage with Experts**: Connect with experts in AI who have experience working with similar organizations. They can provide insights and advice tailored to your specific needs.\n\n5. **Train Your Team**: Ensure that all team members understand the benefits and how to implement AI effectively. Provide training sessions that cover both technical aspects and business strategies.\n\n6. **Monitor and Evaluate**: After implementing AI, monitor its performance against your defined goals",
+        "retrieved_ids": [
+          "kb09",
+          "kb05",
+          "kb04"
+        ]
+      },
+      {
+        "question": "How do I speak to a human at SMF?",
+        "blocked_by_input_guardrail": false,
+        "passed": true,
+        "answer": "To speak to a human at SMF, you should contact the SMF membership team via the official SMF website contact page.",
+        "retrieved_ids": [
+          "kb10",
+          "kb01",
+          "kb12"
+        ]
+      },
+      {
+        "question": "What are the benefits of SMF membership?",
+        "blocked_by_input_guardrail": false,
+        "passed": true,
+        "answer": "The benefits of SMF membership include:\n\n1. Access to industry networks and government-grant guidance.\n2. Training opportunities.\n3. Matchmaking with technology solution providers in the Singapore manufacturing ecosystem.\n4. Grants for adopting AI technologies.\n5. Case studies showcasing successful implementations of AI adoption by SMF members.\n6. Opportunities for networking and collaboration within the SMF community.",
+        "retrieved_ids": [
+          "kb12",
+          "kb01",
+          "kb10"
+        ]
+      }
+    ]
+  }
+}

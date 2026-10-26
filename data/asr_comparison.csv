@@ -1,0 +1,4 @@
+Attack,ASR before,ASR after,Reduction (pp)
+Prompt injection / jailbreak,83%,0%,83
+System-prompt & context extraction,67%,0%,67
+RAG knowledge-base poisoning,60%,0%,60
