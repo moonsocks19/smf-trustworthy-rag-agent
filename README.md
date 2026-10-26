@@ -90,6 +90,14 @@ This case study is grounded in an applied industrial project for the **Singapore
 Federation (SMF)** (*Project 10 — SMF Agentic AI for Manufacturing*). SMF represents over 5,000 corporate
 members, driving industry transformation and AI adoption across Singapore's manufacturing ecosystem.
 
+> [!NOTE]
+> **Synthetic Testbed & Data Confidentiality Notice**  
+> To protect enterprise confidentiality and comply with data privacy standards (PDPA), the knowledge
+> base (`knowledge_base.json`), internal staff escalation records, and canary tokens used in this
+> repository are **curated synthetic data**. They realistically simulate SMF manufacturing advisory
+> workflows (e.g., EDG and PSG grant guidelines, AI Solution Day matchmaking) within a controlled,
+> lightweight testbed designed specifically for reproducible adversarial red-teaming.
+
 An automated member assistant must handle sensitive workflows:
 * Explaining co-funding grant criteria (e.g., Enterprise Development Grant — EDG up to 50%).
 * Evaluating ROI previews across productivity and automation initiatives.
@@ -142,3 +150,4 @@ Python · PyTorch · Hugging Face Transformers · Sentence Transformers (`all-Mi
 
 ## License
 MIT — see [LICENSE](LICENSE).
+
